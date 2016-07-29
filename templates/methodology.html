@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block title %}Methodology{% endblock %}
+
+{% block content %}
+	<div class="container">
+		<h1>Methodology</h1>
+		<hr />
+		<p>These are the methodological steps I will take to answer my research question.</p>
+		<ul>
+			<li>Figure out the percentage of the popular vote that both Clinton and Sanders received in each county using 2016 Presidential Primary election results data from <a href="https://www.kaggle.com/benhamner/2016-us-election">Kaggle</a>.</li>
+			<li>Use <a href="https://www.census.gov/popest/data/counties/asrh/2014/CC-EST2014-ALLDATA.html">U.S. Census data</a> to determine the racial/ethnic demographics of each county in the U.S. I am considering determining a coding system for each county that indicates whether the county has a "very high," "somewhat high," "medium," "somewhat low," or "very low" black population. I will need to figure out whether a coding system like that will be useful.</li>
+			<li>Determine what region of the country each county is in (i.e. South, Northeast, Midwest, etc.).</li>
+			<li>Use the <a href="http://www.cdc.gov/nchs/data_access/urban_rural.htm">National Center for Health Statistics' Urban-Rural Classification Scheme data</a> to determine the urban/rural level of each county.</li>
+			<li>From these datasets, I can compare Sanders' share of the black vote in different geographic regions of the country, as well has his share in urban vs. rural counties. I'll use <a href="http://www.cnn.com/election/primaries/polls">CNN exit poll data</a> to corroborate and add context to county-level data.</li>
+		</ul>
+	</div>
+{% endblock %}
