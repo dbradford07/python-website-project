@@ -1,3 +1,11 @@
-# Website Project Example
+# Black Voters in the 2016 Democratic Primary
 
-This website is part of a Johns Hopkins class that uses Python to collect and analyzedata. The website showcases all the skills learned in the class.
+African American voters were one of the [most reliable demographic groups](https://www.washingtonpost.com/news/the-fix/wp/2016/06/09/black-voters-gave-hillary-clinton-a-big-win-but-she-would-probably-have-won-anyway/) in Hillary Clinton's coalition of Democratic supporters during the 2016 presidential primary election, despite Bernie Sanders's [great effort](https://www.washingtonpost.com/news/the-fix/wp/2016/03/16/bernie-sanders-is-doing-better-with-black-voters-but-its-still-not-good-enough/) to reach out to black voters. The purpose of this project is to determine whether Sanders's efforts to gain black supporters were more successful in certain parts of the country than others.
+
+Black voters are often described as a [monolith](http://www.dailykos.com/story/2016/3/1/1494194/-Yes-Black-voters-are-Monolithic-in-their-Democratic-Establishment-Voting-Habits) -- I am interested in resolving whether that was true in the 2016 Democratic primary election. The research will explore whether counties with a high black population correlated with support for Clinton, or whether there are nuances that better explain Clinton's performances with black voters.
+
+My research questions are as follows:
+- Was Hillary Clinton more likely than Bernie Sanders to win counties with a large black population?
+- If Clinton was more likely to win in counties with a large black population, was this support from the black community consistent across the country, or was it more fragmented?
+- If support was more fragmented, what were the characteristics of Hillary Clinton's black supporters? For example, did Clinton perform better with African American voters in the South than with those in the Northeast or Midwest? Did she perform better rural black voters as opposed to urban black voters?
+- If her support was indeed better among black voters in certain areas of the country, how does her share among black voters in these areas compare with her share of overall voters?
